@@ -1,0 +1,205 @@
+@media (max-width:1359px) {
+
+    .div-whight {
+        width: 100%;
+       
+        max-width: 100%;
+        padding: 0 30px;
+        box-sizing: border-box;
+    }
+
+    .services {
+      
+        margin: 38px 0;
+       
+    }
+   
+
+@media (max-width:1200px) {
+    .menu-left h2 {
+      
+        font-size: 35px;
+    }
+    .menu-right {
+        width: 60%;
+     
+    }
+    .services-item .ser-it {
+      
+        padding: 12px;
+        box-sizing: border-box;
+    }
+  
+    .about-right {
+        padding: 0 40px;
+    }
+    .ari h5 {
+        font-size: 22px;
+    }
+    .ari p {
+        font-size: 17px;
+        line-height: 17px;
+    }
+
+
+}
+@media (max-width:1100px) {
+    .ari h5 {
+        font-size: 20px;
+    }
+    .ari p {
+        font-size: 17px;
+        line-height: 16px;
+    }
+  
+}
+@media (max-width:1050px) {
+    .menu-left h2 {
+        font-size: 30px;
+    }
+    .menu-right ul li a {
+      
+        font-size: 18px;
+    }
+    .services-item .ser-it {
+        width: 50%;
+        
+        margin-bottom: 12px;
+    }
+    .ser-it p {
+        margin: 8px 0;
+        font-size: 23px;
+    }
+    .div-img {
+        width: 100%;
+    }
+    .about-right {
+        width: 100%;
+        margin-top: 27px;
+        padding: 0;
+    }
+    .ari h5 {
+        font-size: 24px;
+    }
+    .ari p {
+        font-size: 18px;
+        line-height: 23px;
+    }
+}
+@media (max-width:1050px) {
+    .benaer {
+        padding: 89px 0;
+    }
+    .benaer-it h1 {
+        font-size: 30px;
+    }
+    .benaer-it h4 {
+        font-size: 15px;
+    }
+    .benaer-it a {
+
+        padding: 8px 7px;
+    }
+    .services-item {
+        padding-bottom: 20px;
+        border-bottom: 1px solid #26be9a;
+    }
+}
+
+@media (max-width:915px) {
+    .menu-left h2 {
+        font-size: 30px;
+        margin: 29px 0;
+    }
+    .menu-right ul li a {
+        font-size: 14px;
+    }
+   
+}
+@media (max-width:768px) {
+    .menu-left {
+        width: 100%;
+    }
+    .menu-left h2 {
+       
+        margin: 0px 0;
+        text-align: center;
+    }
+    .menu-right {
+        width: 100%;
+    }
+    .menu-right ul{
+        text-align: center;
+    }
+    .menu-right ul li a {
+       
+        line-height: 61px;
+       
+    }
+    .benaer {
+       
+        padding: 120px 0;
+    }
+    .benaer-it h1 {
+        font-size: 35px;
+    }
+    .benaer-it h4 {
+        font-size: 18px;
+    }
+    .benaer-it a {
+        text-decoration: none;
+    
+        padding: 11px 14px;
+    }
+    .ser-it p {
+        margin: 8px 0;
+        font-size: 20px;
+    }
+    .services-item .ser-it {
+        width: 100%;
+        margin-bottom: 12px;
+    }
+}
+
+
+@media (max-width: 470px){
+    .menu-right ul {
+        margin-top: 14px;
+    }
+    .menu-right ul li a {
+        line-height: 39px;
+    }
+    .benaer {
+        padding: 70px 0;
+    }
+    .benaer-it h1 {
+        font-size: 25px;
+    }
+    .benaer-it h4 {
+        font-size: 14px;
+    }
+    .benaer-it a {
+        padding: 7px 5px;
+    }
+    .services-item .ser-it {
+        width: 100%;
+        margin-bottom: 2px;
+    }
+}
+@media(max-width: 400px){
+    .contact-it {
+      
+        width: 100%;
+        padding-top: 30px;
+    }
+    .contact-it {
+       
+        width: 100%;
+        padding-top: 30px;
+    }
+    .contact-a {
+        
+        margin-top: 51px;
+        padding: 6px;
+    }
+}
